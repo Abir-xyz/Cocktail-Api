@@ -1,0 +1,26 @@
+/* ----------- 768px */
+
+@media screen and (min-width: 768px) {
+  .content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .content-container {
+    flex: 0 0 calc(33.33% - 16px);
+  }
+}
+
+/* ------------ for drink html*/
+
+@media screen and (min-width: 768px) {
+  .info-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .infos {
+    flex: 0 0 calc(50% - 20px);
+  }
+}
