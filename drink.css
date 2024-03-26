@@ -1,0 +1,43 @@
+.info-wrapper {
+  max-width: 80vw;
+  margin: 40px auto;
+}
+.info-img {
+  width: 100%;
+  border: 7px solid rgb(196, 196, 196);
+  border-radius: 4px;
+}
+.info-img-wrapper {
+  margin-bottom: 20px;
+}
+.info-contents {
+  margin-left: 20px;
+}
+.info-title {
+  font-size: 1.7rem;
+  padding-bottom: 8px;
+}
+.info-text {
+  font-size: 1.3rem;
+  padding-bottom: 16px;
+  width: 85%;
+}
+.ingredient {
+  font-size: 1.2rem;
+  padding-bottom: 3px;
+}
+ul li {
+  font-size: 1.2rem;
+}
+
+.info-btn-wrapper {
+  margin-top: 20px;
+}
+.info-btn {
+  text-decoration: none;
+  font-size: 1.2rem;
+  background-color: #2b98f0;
+  color: #fff;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
